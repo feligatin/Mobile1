@@ -5,10 +5,14 @@
       <entry key="GreetingPreview">
         <State />
       </entry>
+
       <entry key="ListPreview">
         <State />
       </entry>
       <entry key="Tap">
+
+      <entry key="app">
+
         <State />
       </entry>
     </value>
